@@ -13,14 +13,14 @@ This template was made for learning purposes and to play around with.
 * The best thing is to play around and see how things work though
 
 ## Instructions
-The "CODE" forlder has different files for the setup:
+#### The "CODE" forlder has different files for the setup:
 * Entity.cs handles the entity and its components
 * Globals.cs is a useful class with stuff that can be accessed anywhere
 * Scene.cs handles scenes. To make a new Scene make a new .cs script and inherit from "Scene"
 * SceneManager.cs handles the scenes that are added in the Game1 class
 * Tags.cs is where you put you tags that are used across the project
 
-The "Components" folder holds two scripts:
+#### The "Components" folder holds two scripts:
 * Component.cs is an abstract class that has the entity it is attached on. to create a new component inherit from this
 * SpriteRendere.cs is a basic renderer to display a texture or a region of a texture. It has two constructors
 
