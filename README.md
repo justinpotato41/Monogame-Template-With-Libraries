@@ -6,6 +6,8 @@ This template was made for learning purposes and to play around with.
 * Just clone it with git or download it
 
 ## How to use
+* You'll neet either .net 6 or .net 8
+
 * The template comes with a working example with two scenes
 
 * In the Game1 class you can add new scenes and change settings about the window and drawing
