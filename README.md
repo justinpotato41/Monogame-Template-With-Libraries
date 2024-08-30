@@ -18,7 +18,7 @@ cd MyGame
 ```
 * now clone this repository with git:
 ```
-
+git clone https://github.com/justinpotato41/Monogame-Template-With-Libraries.git
 ```
 This will put the folders with the necessary code into the project.
 
