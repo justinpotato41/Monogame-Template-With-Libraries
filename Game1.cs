@@ -51,8 +51,8 @@ public class Game1 : Game
         Globals.window = Window;
         Globals.batch = new SpriteBatch(GraphicsDevice);
         Globals.graphicsDevice = GraphicsDevice;
-        pixelTexture = Content.Load<Texture2D>("art/pixel");
-        font = Content.Load<SpriteFont>("font");
+        pixelTexture = Content.Load<Texture2D>("ART/pixel");
+        font = Content.Load<SpriteFont>("ART/font");
         sceneManager = new SceneManager();
         #endregion
         
