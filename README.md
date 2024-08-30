@@ -18,9 +18,9 @@ cd MyGame
 ```
 * now clone this repository with git:
 ```
-git clone https://github.com/justinpotato41/Monogame-Template-With-Libraries.git
+git clone https://github.com/justinpotato41/Monogame-Template-With-Libraries.git .
 ```
-This will put the folders with the necessary code into the project.
+* Now open the folder and double-click the ``` install_packages.bat ``` file or run it into the terminal.
 
 ## How to use
 * You'll need either .net 6 or .net 8
