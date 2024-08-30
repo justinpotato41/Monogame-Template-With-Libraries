@@ -3,24 +3,10 @@ A Monogame template with different libraries I made for myself to reuse.
 This template was made for learning purposes and to play around with.
 
 ## How to install
-* Make a new Monogame project (assuming you have monogame installed on your machine).
-  Open a terminal in the location you wish to make the project
-  and run the following commands:
+
 ```
-dotnet new sln -n MyGame
-dotnet new mgdesktopgl -n MyGame
-dotnet sln add MyGame
-dotnet restore
+COMING SOOOOOOOOOOOON
 ```
-* Now, with the monogame project created, enter the MyGame directory:
-```
-cd MyGame
-```
-* now clone this repository with git:
-```
-git clone https://github.com/justinpotato41/Monogame-Template-With-Libraries.git .
-```
-* Now open the folder and double-click the ``` install_packages.bat ``` file or run it into the terminal.
 
 ## How to use
 * You'll need either .net 6 or .net 8
