@@ -23,7 +23,7 @@ git clone https://github.com/justinpotato41/Monogame-Template-With-Libraries.git
 This will put the folders with the necessary code into the project.
 
 ## How to use
-* You'll neet either .net 6 or .net 8
+* You'll need either .net 6 or .net 8
 
 * The template comes with a working example with two scenes
 
