@@ -30,7 +30,6 @@ instructions here: https://github.com/justinpotato41/setup_file_for_monogame_wit
 ## Fun Part
 In the "Content" folder are three important folder:
 * The "ART" folder holds the art that you make
-* The "SCENES" folder holds all the scenes you make
 * The "SCRIPTS" folder holds all the script you make
 Of course you dont need to adapt to this conventions
 
