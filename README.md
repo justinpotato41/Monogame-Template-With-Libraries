@@ -4,9 +4,7 @@ This template was made for learning purposes and to play around with.
 
 ## How to install
 
-```
-COMING SOOOOOOOOOOOON
-```
+instructions here: https://github.com/justinpotato41/setup_file_for_monogame_with_libraries/tree/main
 
 ## How to use
 * You'll need either .net 6 or .net 8
